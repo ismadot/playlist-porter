@@ -18,7 +18,7 @@
 ## 📦 Instalación
 
 ```bash
-git clone https://github.com/tu-usuario/playlist-porter.git
+git clone https://github.com/ismadot/playlist-porter.git
 cd playlist-porter
 pnpm install
 ```
@@ -99,4 +99,4 @@ src/
 
 ## 📜 Licencia
 
-MIT License. Hecho con ❤️ por [tu nombre o GitHub handle].
+MIT License. Hecho con ❤️ por ismadot.
