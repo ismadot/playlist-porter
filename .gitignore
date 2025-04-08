@@ -1,0 +1,41 @@
+# Node modules
+node_modules/
+
+# Output de compilación
+dist/
+*.tsbuildinfo
+
+# Archivos temporales y logs
+*.log
+npm-debug.log*
+pnpm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Directorios de coverage
+coverage/
+.nyc_output/
+
+# Archivos generados por tests
+__tests__/tmp/
+*.test-result.json
+
+# Archivos generados por tu CLI
+playlist-youtube-*.json
+match-results-*.json
+
+# Archivos de entorno
+.env
+.env.local
+.env.*.local
+
+# Archivos del sistema / IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# VSCode launch config
+.vscode/launch.json
